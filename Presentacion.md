@@ -1,6 +1,6 @@
 # Presentación del Proyecto
 
-**Autor:** [Tu Nombre]
+**Autor:** [Rafael Salazar]
 
 ## Descripción
 
